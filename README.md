@@ -1,6 +1,6 @@
-# XSD Editor Pro - Universal XSD Tree Editor
+# XSD Editor Pro - Universal XSD Tree Editor 
 
-XSD Editor Pro is a single page, browser based tool for working with XML Schema (XSD) without any heavy IDEs, plugins, or backend services.
+[XSD Editor Pro](https://gouthams11.github.io/xsd-editor-pro/xsdeditor.html) is a single page, browser based tool for working with XML Schema (XSD) without any heavy IDEs, plugins, or backend services.
 
 Paste an XSD, inspect it as a tree, tweak the structure, and generate a clean, formatted schema that you can download or copy back into your project.
 
