@@ -56,6 +56,4 @@ Everything runs 100 percent in the browser. No data is sent anywhere.
   - Dark and light themes with a simple toggle, stored in `localStorage`  
   - Auto save of the full tree, metadata, selection, and original XSD per browser, with a restore prompt on load
 
-- **No backend, no build step**  
-  One HTML file, one `<script>` block, nothing else. Perfect for GitHub Pages.
 
