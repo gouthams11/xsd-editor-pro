@@ -4,6 +4,9 @@ XSD Editor Pro is a single page, browser based tool for working with XML Schema 
 
 Paste an XSD, inspect it as a tree, tweak the structure, and generate a clean, formatted schema that you can download or copy back into your project.
 
+▶ **Use the Live Tool:**  
+https://gouthams11.github.io/xsd-editor-pro/xsdeditor.html
+
 ---
 
 ## Why this exists
