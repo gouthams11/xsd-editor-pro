@@ -67,5 +67,5 @@ You can use this in two ways:
 Once the repo is wired to GitHub Pages, open:
 
 ```text
-https://<your-username>.github.io/xsd-editor-pro/
+https:///gouthams11.github.io/xsd-editor-pro/
 
