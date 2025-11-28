@@ -56,16 +56,3 @@ Everything runs 100 percent in the browser. No data is sent anywhere.
 - **No backend, no build step**  
   One HTML file, one `<script>` block, nothing else. Perfect for GitHub Pages.
 
----
-
-## Getting started
-
-You can use this in two ways:
-
-### 1. Use it on GitHub Pages
-
-Once the repo is wired to GitHub Pages, open:
-
-```text
-https:///gouthams11.github.io/xsd-editor-pro/
-
